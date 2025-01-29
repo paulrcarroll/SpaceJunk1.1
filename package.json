@@ -1,0 +1,29 @@
+{
+  "name": "space-junk",
+  "description": "A Phaser 3 TypeScript Game.",
+  "version": "0.1",
+  "author": "Paul Carroll",
+  "license": "MIT",
+  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "scripts": {
+    "dev": "node log.js dev & vite --config vite/config.dev.mjs",
+    "build": "node log.js build & vite build --config vite/config.prod.mjs",
+    "dev-nolog": "vite --config vite/config.dev.mjs",
+    "build-nolog": "vite build --config vite/config.prod.mjs"
+  },
+  "devDependencies": {
+    "terser": "^5.31.0",
+    "typescript": "^5.4.5",
+    "vite": "^5.3.1",
+    "@types/jquery": "^3.5.5"
+  },
+  "dependencies": {
+    "phaser": "^3.86.0",
+    "dat.gui": "^0.7.7",
+    "@types/dat.gui": "^0.7.13",
+    "@types/matter-js": "^0.14.12",
+    "matter-js": "^0.17.1",
+    "phaser-matter-collision-plugin": "^0.10.2",
+    "phaser-raycaster": "^0.9.3"
+  }
+}

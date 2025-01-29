@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="text-test.svg"
+   inkscape:export-filename="C:\dev\phaser\SpaceJunk1.1\public\assets\texttest.png"
+   inkscape:export-xdpi="72.00943"
+   inkscape:export-ydpi="72.00943"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6017536"
+     inkscape:cx="397.06482"
+     inkscape:cy="557.51396"
+     inkscape:window-width="4608"
+     inkscape:window-height="2486"
+     inkscape:window-x="4597"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="Paul"
+       id="text3158"
+       style="font-size:25.4px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';stroke-width:0.264583"
+       transform="translate(12.058398,3.7992214)">
+      <path
+         d="m 11.500533,16.94142 v -4.440039 q 1.525489,0 1.525489,-1.16582 0,-1.066602 -1.165821,-1.066602 -1.178222,0 -1.178222,1.463477 v 11.06289 H 5.6466271 V 12.253334 q 0,-1.637109 0.322461,-2.678906 0.3348632,-1.0541992 1.1286132,-1.9595703 0.8929688,-1.0045898 2.2324219,-1.5875 1.3394528,-0.5829101 2.7657228,-0.5829101 2.579687,0 4.328418,1.7363281 1.761132,1.7363281 1.761132,4.3036133 0,2.492871 -1.575097,4.043164 -1.438672,1.426269 -4.34082,1.426269 z"
+         style="font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, '"
+         id="path823" />
+      <path
+         d="m 26.792623,18.15685 v 4.799707 q -0.570508,0.09922 -1.041797,0.09922 -2.790527,0 -4.650878,-1.835546 -1.860352,-1.835547 -1.860352,-4.60127 0,-2.691308 1.872754,-4.564062 1.885156,-1.872754 4.576465,-1.872754 3.001367,0 4.725293,1.761133 1.736328,1.74873 1.736328,4.787304 v 6.064746 h -4.638477 v -5.729882 q 0,-0.979786 -0.483691,-1.562696 -0.471289,-0.58291 -1.277442,-0.58291 -0.731738,0 -1.265039,0.533301 -0.5333,0.533301 -0.5333,1.265039 0,0.768945 0.483691,1.265039 0.483691,0.496094 1.227832,0.496094 0.607715,0 1.128613,-0.322461 z"
+         style="font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, '"
+         id="path825" />
+      <path
+         d="m 34.854147,10.603823 h 4.638476 v 6.982519 q 0,1.054199 0.880567,1.054199 0.868164,0 0.868164,-1.054199 v -6.982519 h 4.638476 v 6.895703 q 0,2.406054 -1.599902,4.067968 -1.599903,1.649512 -3.919141,1.649512 -2.641699,0 -4.254004,-1.922363 -1.252636,-1.500684 -1.252636,-4.167188 z"
+         style="font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, '"
+         id="path827" />
+      <path
+         d="M 53.222016,5.8661273 V 22.795326 H 48.58354 V 5.8661273 Z"
+         style="font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, '"
+         id="path829" />
+    </g>
+    <rect
+       style="fill:#0a0a0a;stroke-width:0.865;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1"
+       id="rect890"
+       width="62.439377"
+       height="3.4688542"
+       x="11.23248"
+       y="23.786428" />
+  </g>
+</svg>
